@@ -1,0 +1,5 @@
+{
+  "endpoints": [
+    "http://188.166.229.163:2216/api/broklyn?key=broklyn"
+  ]
+}
